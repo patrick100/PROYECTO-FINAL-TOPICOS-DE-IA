@@ -33,7 +33,7 @@ Fingerprint classification system using fingerprint orientantion feature vectors
   * Nice classification model of more than 90% accuracy found during experimentation available and ready to be loaded in keras.
 
 # ARQUITECTURE CNN LENET 5
-![alt text](/lenet.png "Salida del programa")
+![alt text](/lenet5.png "Salida del programa")
 
 
 
