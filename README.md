@@ -5,7 +5,6 @@ Fingerprint classification system using fingerprint orientantion feature vectors
 #Authors
 - Ruben Edwin Hualla Quispe
 - Patrick Lazo Colque
-# Modules
 # Data Storage Module
 - NIST4 database
 # Data Preprocessing Module
@@ -32,3 +31,17 @@ Fingerprint classification system using fingerprint orientantion feature vectors
 - Final results:
   * Results from experiments of classification system using a  LENET CNN.
   * Nice classification model of more than 90% accuracy found during experimentation available and ready to be loaded in keras.
+
+# ARQUITECTURE CNN LENET 5
+![alt text](/lenet.png "Salida del programa")
+
+
+
+
+
+
+
+
+
+
+  
