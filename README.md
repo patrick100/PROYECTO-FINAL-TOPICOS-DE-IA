@@ -32,9 +32,9 @@ Fingerprint classification system using fingerprint orientantion feature vectors
   * Results from experiments of classification system using a  LENET CNN.
   * Nice classification model of more than 90% accuracy found during experimentation available and ready to be loaded in keras.
 
-
-# PRE-PROCESSING
 the preprocessed fingerprint was the following
+# PRE-PROCESSING
+
 ![alt text](/huella.png "")
 
 
@@ -67,7 +67,7 @@ Al finalizar el entrenamiento se almacena el modelo entrenado en model.h5
 # RESULTADOS OBTENIDOS
 
 Se obtuvo la siguiente grafica de precision.
-![alt text](/accur.png "Grafica de precision")
+![alt text](/accu.png "Grafica de precision")
 
 Se obtuvo la siguiente grafica de error.
 ![alt text](/loss.png "Grafica del error")
