@@ -67,7 +67,7 @@ Al finalizar el entrenamiento se almacena el modelo entrenado en model.h5
 # RESULTADOS OBTENIDOS
 
 Se obtuvo la siguiente grafica de precision.
-![alt text](/accu.png "Grafica de precision")
+![alt text](/acc.png "Grafica de precision")
 
 Se obtuvo la siguiente grafica de error.
 ![alt text](/loss.png "Grafica del error")
